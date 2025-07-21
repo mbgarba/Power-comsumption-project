@@ -11,3 +11,4 @@ This project was created to analyze energy usage data from multiple meters over 
 *Uncover seasonal, monthly, and daily consumption trends to support operational insights.
 
 *Build a foundation for further analytics like anomaly detection, forecasting, and optimization.
+
